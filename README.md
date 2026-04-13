@@ -18,8 +18,8 @@ A single-page productivity web app built with **React + Vite** that combines a *
 
 ## Module Links
 
-- **GitHub Repository:** https://github.com/your-repo
-- **Demo Video:** https://youtu.be/your-video
+- **GitHub Repository:** https://github.com/jheferlinares/focus-task-manager
+- **Demo Video:** https://youtu.be/8yiKQMqcUTw
 
 ---
 
